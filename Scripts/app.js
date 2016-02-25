@@ -1,3 +1,7 @@
+/* app.js custom script file created by Devon Daviau for The Travel Report Website
+25 FEB 16
+ */
+
 (function(){
 
     // Variables to store DOM nodes for content injection
